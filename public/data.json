@@ -1,0 +1,481 @@
+[
+  {
+    "id": 1,
+    "adventureTitle": "Snowy Mountain Trek",
+    "image": "https://i.ibb.co.com/tqFj897/snowy-mountain-trek.jpg",
+    "categoryName": "Mountain Treks",
+    "shortDescription": "Experience the serene beauty of snow-covered peaks.",
+    "adventureCost": 1200,
+    "bookingAvailability": true,
+    "location": "Himalayas, Nepal",
+    "duration": "7 Days",
+    "adventureLevel": "Intermediate",
+    "includedItems": [
+      "Trekking Guide",
+      "Camping Gear",
+      "Meals",
+      "First Aid Kit"
+    ],
+    "ecoFriendlyFeatures": [
+      "Reusable Water Bottles",
+      "Leave No Trace Policy",
+      "Composting Toilets"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Pack warm clothing.",
+      "Carry valid ID and permits.",
+      "Follow altitude sickness precautions."
+    ]
+  },
+  {
+    "id": 2,
+    "adventureTitle": "Ocean Dive Expedition",
+    "image": "https://i.ibb.co.com/pbWc8ZZ/ocean-div-expdition.jpg",
+    "categoryName": "Ocean Dives",
+    "shortDescription": "Dive into crystal-clear waters and explore vibrant marine life.",
+    "adventureCost": 800,
+    "bookingAvailability": true,
+    "location": "Great Barrier Reef, Australia",
+    "duration": "3 Days",
+    "adventureLevel": "Advanced",
+    "includedItems": [
+      "Diving Equipment",
+      "Professional Instructor",
+      "Safety Gear"
+    ],
+    "ecoFriendlyFeatures": [
+      "Coral Reef Preservation",
+      "Biodegradable Sunscreen Requirement",
+      "Eco-friendly Diving Practices"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Bring swimwear and towel.",
+      "Avoid touching marine life.",
+      "Complete mandatory diving training."
+    ]
+  },
+  {
+    "id": 3,
+    "adventureTitle": "Rainforest Safari",
+    "image": "https://i.ibb.co.com/k6mx5JN/rainforest-safari.jpg",
+    "categoryName": "Wildlife Safaris",
+    "shortDescription": "Discover exotic wildlife in their natural habitat.",
+    "adventureCost": 600,
+    "bookingAvailability": true,
+    "location": "Amazon Rainforest, Brazil",
+    "duration": "5 Days",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Guided Tours", "Camping Equipment", "Binoculars"],
+    "ecoFriendlyFeatures": [
+      "Solar-powered Camps",
+      "Plastic-free Packaging",
+      "Wildlife Conservation Donation"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Wear comfortable hiking shoes.",
+      "Avoid feeding wild animals.",
+      "Use eco-friendly insect repellents."
+    ]
+  },
+  {
+    "id": 4,
+    "adventureTitle": "Desert Exploration",
+    "image": "https://i.ibb.co.com/Nrk77gv/desert-exploration.jpg",
+    "categoryName": "Desert Exploration",
+    "shortDescription": "Witness the mesmerizing beauty of endless sand dunes.",
+    "adventureCost": 700,
+    "bookingAvailability": false,
+    "location": "Sahara Desert, Morocco",
+    "duration": "4 Days",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Camel Ride", "Guided Trek", "Traditional Meals"],
+    "ecoFriendlyFeatures": [
+      "Reusable Utensils",
+      "Eco-friendly Camping Gear",
+      "Solar-powered Lighting"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Stay hydrated.",
+      "Wear sun protection.",
+      "Respect local customs."
+    ]
+  },
+  {
+    "id": 5,
+    "adventureTitle": "Mangrove Forest Kayaking",
+    "image": "https://i.ibb.co.com/NWK6BwY/mangrove-forest-kayaking.jpg",
+    "categoryName": "Mangrove Forest Expeditions",
+    "shortDescription": "Paddle through serene mangrove forests and spot unique wildlife.",
+    "adventureCost": 500,
+    "bookingAvailability": true,
+    "location": "Sundarbans, Bangladesh",
+    "duration": "2 Days",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Kayak and Paddles", "Local Guide", "Safety Gear"],
+    "ecoFriendlyFeatures": [
+      "No Plastic Policy",
+      "Water Quality Monitoring",
+      "Eco-friendly Kayaks"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Carry mosquito repellents.",
+      "Follow the guide's instructions.",
+      "Avoid littering."
+    ]
+  },
+  {
+    "id": 6,
+    "adventureTitle": "Forest Camping Retreat",
+    "image": "https://i.ibb.co.com/8z2r688/forest-camping-retreat.jpg",
+    "categoryName": "Camping Retreats",
+    "shortDescription": "Enjoy a peaceful night under the stars in a lush forest.",
+    "adventureCost": 300,
+    "bookingAvailability": true,
+    "location": "Black Forest, Germany",
+    "duration": "2 Nights",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Tents", "Bonfire Setup", "Camping Meals"],
+    "ecoFriendlyFeatures": [
+      "Eco-friendly Campfires",
+      "Minimal Impact Policy",
+      "Recycled Materials"
+    ],
+    "maxGroupSize": 20,
+    "specialInstructions": [
+      "Pack light.",
+      "Follow fire safety rules.",
+      "Dispose of waste responsibly."
+    ]
+  },
+  {
+    "id": 7,
+    "adventureTitle": "Glacier Walk Adventure",
+    "image": "https://i.ibb.co.com/FqBFtz2/glacier-walk-adventure.jpg",
+    "categoryName": "Mountain Treks",
+    "shortDescription": "Walk on pristine glaciers and learn about climate change.",
+    "adventureCost": 900,
+    "bookingAvailability": true,
+    "location": "Iceland Glaciers, Iceland",
+    "duration": "1 Day",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Glacier Gear", "Safety Equipment", "Guide"],
+    "ecoFriendlyFeatures": [
+      "Low-impact Tours",
+      "Sustainable Practices",
+      "Educational Guides"
+    ],
+    "maxGroupSize": 5,
+    "specialInstructions": [
+      "Wear insulated boots.",
+      "Follow guide instructions.",
+      "Respect nature."
+    ]
+  },
+  {
+    "id": 8,
+    "adventureTitle": "River Rafting Adventure",
+    "image": "https://i.ibb.co.com/cYRHbH8/river-rafting-adventure.jpg",
+    "categoryName": "River Adventures",
+    "shortDescription": "Thrill yourself with rapid waters and scenic surroundings.",
+    "adventureCost": 400,
+    "bookingAvailability": true,
+    "location": "Colorado River, USA",
+    "duration": "1 Day",
+    "adventureLevel": "Advanced",
+    "includedItems": ["Rafting Equipment", "Safety Gear", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Reusable Safety Gear",
+      "No Plastic Bottles",
+      "River Clean-up Programs"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear water-resistant clothing.",
+      "Follow safety instructions.",
+      "Carry extra dry clothes."
+    ]
+  },
+  {
+    "id": 9,
+    "adventureTitle": "Jungle Night Safari",
+    "image": "https://i.ibb.co.com/H7MSNqZ/jungle-night-safari.jpg",
+    "categoryName": "Wildlife Safaris",
+    "shortDescription": "Explore the nocturnal life of a dense jungle.",
+    "adventureCost": 650,
+    "bookingAvailability": true,
+    "location": "Borneo Rainforest, Indonesia",
+    "duration": "1 Night",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Torchlight", "Local Guide", "Safety Gear"],
+    "ecoFriendlyFeatures": [
+      "Energy-efficient Lighting",
+      "Minimal Impact Travel",
+      "Wildlife-friendly Equipment"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Wear long-sleeved clothes.",
+      "Avoid loud noises.",
+      "Use eco-friendly repellents."
+    ]
+  },
+  {
+    "id": 10,
+    "adventureTitle": "Coastal Hike Expedition",
+    "image": "https://i.ibb.co.com/M9z8y1P/coastal-hike-expedition.jpg",
+    "categoryName": "Mountain Treks",
+    "shortDescription": "Hike along breathtaking coastal cliffs and beaches.",
+    "adventureCost": 450,
+    "bookingAvailability": true,
+    "location": "Cliffs of Moher, Ireland",
+    "duration": "1 Day",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Guide", "Snacks", "Trail Map"],
+    "ecoFriendlyFeatures": [
+      "Waste-free Lunch",
+      "Sustainable Travel Routes",
+      "Trail Preservation Funding"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Wear comfortable shoes.",
+      "Carry a raincoat.",
+      "Respect nature."
+    ]
+  },
+  {
+    "id": 11,
+    "adventureTitle": "Volcano Trekking",
+    "image": "https://i.ibb.co.com/WsfnrDP/volcano-trekking.jpg",
+    "categoryName": "Mountain Treks",
+    "shortDescription": "Trek to the summit of an active volcano.",
+    "adventureCost": 1500,
+    "bookingAvailability": true,
+    "location": "Mount Bromo, Indonesia",
+    "duration": "3 Days",
+    "adventureLevel": "Advanced",
+    "includedItems": ["Trekking Guide", "Camping Gear", "Meals"],
+    "ecoFriendlyFeatures": [
+      "Low-impact Travel",
+      "Solar-powered Equipment",
+      "Wildlife Conservation Donations"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Wear sturdy shoes.",
+      "Bring a flashlight.",
+      "Carry sufficient water."
+    ]
+  },
+  {
+    "id": 12,
+    "adventureTitle": "Ice Cave Exploration",
+    "image": "https://i.ibb.co.com/5kbDM59/ice-cave-exploration.jpg",
+    "categoryName": "Glacier Adventures",
+    "shortDescription": "Explore frozen caverns and spectacular ice formations.",
+    "adventureCost": 1100,
+    "bookingAvailability": true,
+    "location": "Vatnajökull Glacier, Iceland",
+    "duration": "1 Day",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Safety Gear", "Guide", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Sustainable Tourism",
+      "Zero Waste Policy",
+      "Eco-friendly Gear"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Wear warm clothing.",
+      "Bring a camera.",
+      "Follow safety rules."
+    ]
+  },
+  {
+    "id": 13,
+    "adventureTitle": "Cave Diving Expedition",
+    "image": "https://i.ibb.co.com/HGmRmbK/cave-diving-expedition.jpg",
+    "categoryName": "Cave Expeditions",
+    "shortDescription": "Dive into submerged caves and discover ancient formations.",
+    "adventureCost": 1300,
+    "bookingAvailability": true,
+    "location": "Waitomo Caves, New Zealand",
+    "duration": "2 Days",
+    "adventureLevel": "Advanced",
+    "includedItems": ["Diving Equipment", "Instructor", "Safety Gear"],
+    "ecoFriendlyFeatures": [
+      "Minimal Impact Diving",
+      "Biodegradable Sunscreen",
+      "Cave Preservation Practices"
+    ],
+    "maxGroupSize": 4,
+    "specialInstructions": [
+      "Complete diving certification.",
+      "Wear appropriate gear.",
+      "Respect cave ecosystems."
+    ]
+  },
+  {
+    "id": 14,
+    "adventureTitle": "Skydiving Adventure",
+    "image": "https://i.ibb.co.com/V2Hz9H3/skydiving-adventure.jpg",
+    "categoryName": "Extreme Sports",
+    "shortDescription": "Experience the thrill of freefall from 12,000 feet.",
+    "adventureCost": 2500,
+    "bookingAvailability": true,
+    "location": "Dubai, UAE",
+    "duration": "1 Day",
+    "adventureLevel": "Advanced",
+    "includedItems": ["Skydiving Gear", "Instructor", "Photo Package"],
+    "ecoFriendlyFeatures": [
+      "Energy-efficient Planes",
+      "Eco-friendly Skydive Gear"
+    ],
+    "maxGroupSize": 5,
+    "specialInstructions": [
+      "Wear comfortable clothing.",
+      "Bring a camera for the photos.",
+      "Sign waiver forms."
+    ]
+  },
+  {
+    "id": 15,
+    "adventureTitle": "Safari Lodge Experience",
+    "image": "https://i.ibb.co.com/4jTcMm6/safari-lodge-experience.jpg",
+    "categoryName": "Wildlife Safaris",
+    "shortDescription": "Stay in a luxurious lodge while exploring wildlife in the wild.",
+    "adventureCost": 1800,
+    "bookingAvailability": true,
+    "location": "Masai Mara, Kenya",
+    "duration": "4 Days",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Lodge Accommodation", "Game Drives", "Meals"],
+    "ecoFriendlyFeatures": [
+      "Solar-powered Lodges",
+      "Wildlife Conservation Funds",
+      "Plastic-free Policy"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Carry binoculars.",
+      "Respect wildlife rules.",
+      "Wear light clothing."
+    ]
+  },
+  {
+    "id": 16,
+    "adventureTitle": "Mountain Biking Challenge",
+    "image": "https://i.ibb.co.com/zNmjbrc/mountain-biking-challange.jpg",
+    "categoryName": "Mountain Biking",
+    "shortDescription": "Ride through rugged trails and scenic mountain routes.",
+    "adventureCost": 800,
+    "bookingAvailability": true,
+    "location": "Swiss Alps, Switzerland",
+    "duration": "2 Days",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Mountain Bike", "Helmet", "Guide"],
+    "ecoFriendlyFeatures": [
+      "Low-carbon Transport",
+      "Recyclable Materials",
+      "Eco-friendly Camp"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Wear protective gear.",
+      "Follow trail guidelines.",
+      "Stay hydrated."
+    ]
+  },
+  {
+    "id": 17,
+    "adventureTitle": "Zip Line Tour",
+    "image": "https://i.ibb.co.com/Xbs9Vcb/zip-line-tour.jpg",
+    "categoryName": "Adventure Tours",
+    "shortDescription": "Soar above lush forests and enjoy an exhilarating ride.",
+    "adventureCost": 450,
+    "bookingAvailability": true,
+    "location": "Costa Rica Rainforest",
+    "duration": "Half Day",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Safety Harness", "Guide", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Energy-efficient Operations",
+      "Tree Conservation Projects"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Wear closed shoes.",
+      "Bring sun protection.",
+      "Follow safety instructions."
+    ]
+  },
+  {
+    "id": 18,
+    "adventureTitle": "Sandboarding Adventure",
+    "image": "https://i.ibb.co.com/thTFHHW/sandboarding-adventure.jpg",
+    "categoryName": "Desert Adventures",
+    "shortDescription": "Glide down towering sand dunes on a sandboard.",
+    "adventureCost": 550,
+    "bookingAvailability": true,
+    "location": "Atacama Desert, Chile",
+    "duration": "1 Day",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Sandboard", "Safety Gear", "Instructor"],
+    "ecoFriendlyFeatures": ["Eco-friendly Sandboards", "Waste Minimization"],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear loose, comfortable clothing.",
+      "Bring plenty of water.",
+      "Protect skin from sun."
+    ]
+  },
+  {
+    "id": 19,
+    "adventureTitle": "Whale Watching Expedition",
+    "image": "https://i.ibb.co.com/nrhSBSn/whale-watching-expedition.jpg",
+    "categoryName": "Marine Expeditions",
+    "shortDescription": "Catch a glimpse of majestic whales in their natural habitat.",
+    "adventureCost": 700,
+    "bookingAvailability": true,
+    "location": "Alaska, USA",
+    "duration": "1 Day",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Boat Ride", "Guide", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Sustainable Whale Watching",
+      "No Plastic Policy",
+      "Wildlife Conservation Fund"
+    ],
+    "maxGroupSize": 20,
+    "specialInstructions": [
+      "Wear warm clothing.",
+      "Bring binoculars.",
+      "Respect wildlife."
+    ]
+  },
+  {
+    "id": 20,
+    "adventureTitle": "Bungee Jumping Experience",
+    "image": "https://i.ibb.co.com/K0s3SpG/bungee-jumping-experience.jpg",
+    "categoryName": "Extreme Sports",
+    "shortDescription": "Feel the adrenaline rush as you leap from a bridge.",
+    "adventureCost": 1200,
+    "bookingAvailability": true,
+    "location": "Victoria Falls, Zambia",
+    "duration": "1 Day",
+    "adventureLevel": "Advanced",
+    "includedItems": ["Bungee Gear", "Instructor", "Photo Package"],
+    "ecoFriendlyFeatures": ["Eco-friendly Operations", "Low-carbon Activities"],
+    "maxGroupSize": 4,
+    "specialInstructions": [
+      "Sign waiver forms.",
+      "Wear comfortable clothing.",
+      "Prepare for a thrilling experience."
+    ]
+  }
+]

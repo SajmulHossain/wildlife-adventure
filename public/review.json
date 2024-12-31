@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Khan",
+    "date": "2024-11-15",
+    "review": "The trip to Sajek Valley was an unforgettable experience! The breathtaking views and serene environment were exactly what I needed. Highly recommend this platform for eco-adventures!",
+    "photo": "https://example.com/images/aisha_khan.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Smith",
+    "date": "2024-10-22",
+    "review": "I loved exploring the tea gardens in Srimangal. This website made it so easy to find eco-friendly activities and plan my trip. Great service!",
+    "photo": "https://example.com/images/john_smith.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rina Das",
+    "date": "2024-11-05",
+    "review": "Ladakh’s rugged beauty was awe-inspiring. Thanks to this site, I discovered hidden gems and sustainable travel options. Looking forward to my next trip!",
+    "photo": "https://example.com/images/rina_das.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Gomez",
+    "date": "2024-11-10",
+    "review": "The Taj Mahal was an architectural marvel! This website provided excellent details and easy navigation to make the most of my visit.",
+    "photo": "https://example.com/images/carlos_gomez.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fatima Ahmed",
+    "date": "2024-11-12",
+    "review": "Exploring the mangrove forests was a dream come true. The eco-friendly travel suggestions were spot-on. I can’t wait to use this site again!",
+    "photo": "https://example.com/images/fatima_ahmed.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Michael Lee",
+    "date": "2024-11-01",
+    "review": "The booking process was smooth, and the adventure was amazing! River rafting in Cox's Bazar was thrilling, and I felt safe throughout.",
+    "photo": "https://example.com/images/michael_lee.jpg"
+  }
+]
